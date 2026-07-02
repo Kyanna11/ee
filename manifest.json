@@ -1,0 +1,17 @@
+{
+  "name": "EE",
+  "short_name": "EE",
+  "description": "纪念锁屏工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EAF6FF",
+  "theme_color": "#EAF6FF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "IMG_3195.jpeg",
+      "sizes": "any",
+      "type": "image/jpeg"
+    }
+  ]
+}
